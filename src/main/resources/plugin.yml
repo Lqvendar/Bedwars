@@ -1,0 +1,3 @@
+name: Bedwars
+version: '${project.version}'
+main: me.lavender.bedwars.Bedwars
